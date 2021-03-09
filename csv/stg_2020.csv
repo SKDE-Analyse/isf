@@ -1,0 +1,45 @@
+"STGKode";"STGNavn";"Periode";"HDGKode";"STGBasispoeng";"STGGruppeKode";"STGGruppeNavn";"Kostnadsvekt"
+"AS01";"Pasientadministrert legemiddelbehandling ved nevrologiske lidelser";"År";1;2.595;200;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 0";2.595
+"AS02";"Oppfølging og monitorering av pasienter med epilepsi basert på Patient Reported Outcome (PRO)";"Tertial";1;0.021;551;"Digitale tjenester for oppfølging av pasienter med kroniske tilstander - 1";0.021
+"CS01";"Telemedisinsk oppfølging av pasienter med søvnapné som bruker CPAP";"Tertial";3;0.013;501;"Telemedisinsk oppfølging - 1";0.013
+"DS01";"Pasientadministrert legemiddelbehandling ved behandling av lungekreft";"År";4;2.673;307;"Pasientadministrert legemiddelbehandling for kreft - 7";2.673
+"DS02";"Pasientadministrert legemiddelbehandling ved alvorlig astma";"År";4;1.536;205;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 5";1.536
+"ES01";"Telemedisinsk oppfølging av pasienter med pacemaker/ ICD";"Tertial";5;0.028;502;"Telemedisinsk oppfølging - 2";0.028
+"ES02";"Pasientadministrert legemiddelbehandling ved pulmonal arteriell hypertensjon (PAH)";"År";5;5.940;207;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 7";5.940
+"FS01";"Pasientadministrert legemiddelbehandling ved mage-/tarm lidelser";"År";6;0.983;200;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 0";0.983
+"FS02";"Pasientadministrert legemiddelbehandling ved behandling av kreft i fordøyelsesorgan";"År";6;2.681;308;"Pasientadministrert legemiddelbehandling for kreft - 8";2.681
+"GS01";"Pasientadministrert legemiddelbehandling ved hepatitt C-infeksjon";"År";7;1.164;201;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 1";1.164
+"GS02";"Pasientadministrert legemiddelbehandling ved behandling av kreft i lever, galleveier og bukspyttkjertel ";"År";7;1.693;309;"Pasientadministrert legemiddelbehandling for kreft - 9";1.693
+"GS03";"Pasientadministrert legemiddelbehandling ved hepatitt B-infeksjon og annen virushepatitt";"ÅR";7;0.357;201;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 1";0.357
+"HS01";"Pasientadministrert legemiddelbehandling ved revmatologiske lidelser";"År";8;0.895;200;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 0";0.895
+"HS02";"Oppfølging og monitorering av pasienter med revmatologiske lidelser basert på Patient Reported Outcome (PRO)";"Tertial";8;0.020;552;"Digitale tjenester for oppfølging av pasienter med kroniske tilstander - 2";0.020
+"JS01";"Pasientadministrert legemiddelbehandling ved hudlidelser";"År";9;1.174;200;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 0";1.174
+"JS02";"Pasientadministrert legemiddelbehandling ved malignt melanom";"År";9;5.677;301;"Pasientadministrert legemiddelbehandling for kreft - 1";5.677
+"JS03";"Asynkron telemedisinsk oppfølging og behandling av pasienter med kroniske sår";"Måned";9;0.015;503;"Telemedisinsk oppfølging - 3";0.015
+"KS01";"Pasientadministrert legemiddelbehandling ved brystkreft";"År";30;4.208;310;"Pasientadministrert legemiddelbehandling for kreft - 10";4.208
+"LS01";"Pasientadministrert legemiddelbehandling ved veksthormonmangel";"År";10;0.747;202;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 2";0.747
+"LS02";"Pasientadministrert legemiddelbehandling ved veksthormonoverskudd";"År";10;3.229;208;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 8";3.229
+"MS01";"Pasientadministrert peritonealdialyse";"Måned";11;0.616;100;"Pasientadministrert dialysebehandling";0.616
+"MS02";"Pasientadministrert hemodialyse";"Måned";11;0.821;100;"Pasientadministrert dialysebehandling";0.821
+"MS03";"Pasientadministrert legemiddelbehandling ved kreft i nyre og urinveier";"År";11;3.590;311;"Pasientadministrert legemiddelbehandling for kreft - 11";3.590
+"NS01";"Pasientadministrert legemiddelbehandling ved kreft i mannlige kjønnsorgan";"År";12;2.586;302;"Pasientadministrert legemiddelbehandling for kreft - 2";2.586
+"OS01";"Pasientadministrert legemiddelbehandling ved kreft i kvinnelige kjønnsorgan";"År";13;5.438;303;"Pasientadministrert legemiddelbehandling for kreft - 3";5.438
+"RS01";"Pasientadministrert legemiddelbehandling ved blodkreft (follikulært lymfom, kronisk lymfatisk leukemi) ";"År";17;4.828;304;"Pasientadministrert legemiddelbehandling for kreft - 4";4.828
+"RS02";"Pasientadministrert legemiddelbehandling med blodkoagulasjonsfaktorer";"År";16;18.105;203;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 3";18.105
+"RS03";"Pasientadministrert legemiddelbehandling med immunstimulerende legemidler";"År";16;0.168;305;"Pasientadministrert legemiddelbehandling for kreft - 5";0.168
+"RS04";"Pasientadministrert legemiddelbehandling med anemilegemidler";"År";16;0.253;204;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 4";0.253
+"SS01";"Pasientadministrert legemiddelbehandling for behandling og forebygging av HIV";"År";18;1.044;206;"Pasientadministrert legemiddelbehandling for non-maligne tilstander - 6";1.044
+"TS01";"Behandling og oppfølging gjennom ACT-team eller lignende ambulante oppsøkende behandlingsteam";"Måned";19;0.752;601;"Psykisk helsevern og TSB - Spesielle teamoppfølgingstilbud";0.752
+"TS02";"Nettbasert behandlingsprogram";"Tertial";19;1.401;602;"Psykisk helsevern og TSB - Nettbasert behandling";1.401
+"TS03";"Kontinuerlig legemiddelbehandling som ledd i LAR";"Tertial";19;0.267;603;"Psykisk helsevern og TSB - LAR";0.267
+"TS04";"Oppfølging og monitorering av pasienter med angst og tvangslidelser basert på Patient Reported Outcome (PRO)";"Tertial";19;0.160;554;"Digitale tjenester for oppfølging av pasienter med kroniske tilstander - 4";0.160
+"TS05";"Oppfølging og monitorering av pasienter med andre psykiske og rusrelaterte lidelser basert på Patient Reported Outcome (PRO)";"Tertial";19;0.120;555;"Digitale tjenester for oppfølging av pasienter med kroniske tilstander - 5";0.120
+"TS06";"Fjernmonitorering og asynkron telemedisinsk oppfølging av pasienter med andre psykiske og rusrelaterte lidelser";"Tertial";19;0.120;505;"Telemedisinsk oppfølging - 5";0.120
+"XS02";"Pasientadministrert legemiddelbehandling ved andre kreftformer ";"År";40;0.723;312;"Pasientadministrert legemiddelbehandling for kreft - 12";0.723
+"XS03";"Pasientadministrert legemiddelbehandling med mindre kostbare kreftlegemidler";"År";40;0.090;313;"Pasientadministrert legemiddelbehandling for kreft - 13";0.090
+"XS04";"Registrering i medisinske kvalitetsregistre";"År";40;0.009;901;"Registrering i medisinske kvalitetsregistre";0.009
+"XS05";"Oppfølging og monitorering av pasienter med andre somatiske lidelser basert på Patient Reported Outcome (PRO)";"Tertial";40;0.015;553;"Digitale tjenester for oppfølging av pasienter med kroniske tilstander - 3";0.015
+"XS06";"Fjernmonitorering og asynkron telemedisinsk oppfølging av pasienter med andre somatiske lidelser";"Tertial";40;0.015;504;"Telemedisinsk oppfølging - 4";0.015
+"XS09";"Teambaserte tverrfaglige oppfølgingstjenester";"Måned";40;0.050;701;"Teambaserte tjenester";0.050
+"XS99";"Annen pasientadministrert legemiddelbehandling";"År";40;0.000;999;"Andre særtjenester";0.000
+"ZS470";"Feilgrupperte særtjenester";"År";99;0.000;999;"Andre særtjenester";0.000

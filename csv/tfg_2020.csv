@@ -1,0 +1,42 @@
+"TFGKode";"TFGNavn";"Periode";"HDGKode";"Kostnadsvekt";"TFGBasispoeng"
+"AT01";"Behandling av MS og andre nevrologiske lidelser med særskilte legemidler";"År";1;2.501;2.501
+"AT851";"Ekstern strålebehandling ved svulst i sentralnervesystemet";"År";1;0.000;0.000
+"AT99";"Andre tjenesteforløp - HDG 01";"År";1;0.000;0.000
+"BT99";"Andre tjenesteforløp - HDG 02";"År";2;0.000;0.000
+"CT851";"Ekstern strålebehandling ved svulst i øre, nese, hals, øye og ansikt";"År";2;0.000;0.000
+"CT99";"Andre tjenesteforløp - HDG 03";"År";3;0.000;0.000
+"DT851";"Ekstern strålebehandling ved lungekreft";"År";4;0.000;0.000
+"DT99";"Andre tjenesteforløp - HDG 04";"År";4;0.000;0.000
+"ET99";"Andre tjenesteforløp - HDG 05";"År";5;0.000;0.000
+"FT01";"Behandling av inflammatoriske mage-/tarm lidelser med særskilte legemidler";"År";6;1.890;1.890
+"FT851";"Ekstern strålebehandling ved kreft i fordøyelsesorganer";"År";6;0.000;0.000
+"FT99";"Andre tjenesteforløp - HDG 06";"År";6;0.000;0.000
+"GT99";"Andre tjenesteforløp - HDG 07";"År";7;0.000;0.000
+"HT01";"Behandling av revmatologiske lidelser med særskilte legemidler";"År";8;0.951;0.951
+"HT02";"Innsetting av primær hofteleddsprotese m/bk";"År";8;2.520;2.520
+"HT03";"Innsetting av primær hofteleddsprotese u/bk";"År";8;2.041;2.041
+"HT04";"Innsetting av primær kneleddsprotese";"År";8;0.000;0.000
+"HT99";"Andre tjenesteforløp - HDG 08";"År";8;0.000;0.000
+"JT01";"Behandling av psoriasis og andre hudlidelser med særskilte legemidler";"År";9;1.194;1.194
+"JT851";"Ekstern strålebehandling ved hudkreft";"År";9;0.000;0.000
+"JT99";"Andre tjenesteforløp - HDG 09";"År";9;0.000;0.000
+"KT851";"Ekstern strålebehandling ved brystkreft";"År";30;0.000;0.000
+"KT99";"Andre tjenesteforløp - HDG 30";"År";30;0.000;0.000
+"LT99";"Andre tjenesteforløp - HDG 10";"År";10;0.000;0.000
+"MT01";"Dialysebehandling";"Måned";11;1.063;1.063
+"MT99";"Andre tjenesteforløp - HDG 11";"År";11;0.000;0.000
+"NT851";"Ekstern strålebehandling ved svulst i mannlige kjønnsorganer";"År";12;0.000;0.000
+"NT99";"Andre tjenesteforløp - HDG 12";"År";12;0.000;0.000
+"OT99";"Andre tjenesteforløp - HDG 13";"År";13;0.000;0.000
+"PT99";"Andre tjenesteforløp - HDG 14";"År";14;0.000;0.000
+"QT99";"Andre tjenesteforløp - HDG 15";"År";15;0.000;0.000
+"RT851";"Ekstern strålebehandling ved kreft i bloddannende organer og lymfatisk vev";"År";17;0.000;0.000
+"RT99";"Andre tjenesteforløp - HDG 16 og 17";"År";16;0.000;0.000
+"ST99";"Andre tjenesteforløp - HDG 18";"År";18;0.000;0.000
+"TT99";"Andre tjenesteforløp - HDG 19";"År";19;0.000;0.000
+"UT99";"Andre tjenesteforløp - HDG 21 og 22";"År";21;0.000;0.000
+"VT99";"Andre tjenesteforløp - HDG 23";"År";23;0.000;0.000
+"WT99";"Andre tjenesteforløp - HDG 24";"År";24;0.000;0.000
+"XT851";"Ekstern strålebehandling ved andre tilstander";"År";40;0.000;0.000
+"XT99";"Andre tjenesteforløp";"År";40;0.000;0.000
+"ZT470";"Feilgruppering - Ikke grupperbar pga manglende opplysninger";"År";99;0.000;0.000
